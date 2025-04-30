@@ -1,1 +1,17 @@
-[{"carModel":"bmw","carReleaseDate":"2020","carColor":"yellow"},{"carModel":"bmw","carReleaseDate":"1994","carColor":"Purple"},{"carModel":"mazda","carReleaseDate":"2014","carColor":"Red"},{},{}]
+[
+  {
+    "carModel": "bmw",
+    "carReleaseDate": "2020",
+    "carColor": "yellow"
+  },
+  {
+    "carModel": "bmw",
+    "carReleaseDate": "1994",
+    "carColor": "Purple"
+  },
+  {
+    "carModel": "mazda",
+    "carReleaseDate": "2014",
+    "carColor": "Red"
+  }
+]
